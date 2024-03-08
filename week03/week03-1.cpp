@@ -1,0 +1,11 @@
+///week03-1.cpp
+#include <stdio.h>
+int main()
+{
+    int a = 5;
+    while(a%2==1) printf("odd\n");
+    while(a>0) printf("a is > 0\n");
+
+
+    }
+///執行 while 時,竟然就卡在上面
